@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+there%2C+I'm+Harsha+Asapu+%F0%9F%91%8B;
-  Product+Designer+%7C+2+Years+of+Crafting+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+there%2C+I'm+Harsha+Asapu+%F0%9F%91%8B;Product+Designer+%7C+2+Years+of+Crafting+Experiences" alt="Typing SVG" />
 
 <br/>
 
