@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Harsha%20Asapu&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Product%20Designer%20%E2%80%A2%20Design%20Engineer%20%E2%80%A2%20Systems%20Thinker&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Harsha%20Asapu&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Product%20Designer%20%E2%80%A2%20Design%20Engineer%20%E2%80%A2%20Frontend%20Developer&descAlignY=58&descSize=18" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Every+problem+has+a+cleaner+answer.;I+find+it.;Product+Designer+who+codes.;React+%2F+Next.js+%2F+Framer+Motion+%2F+Figma;Building+at+the+intersection+of+design+%26+engineering.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Design+doesn't+ship+perfect.+It+ships+clear.;Identify.+Solve.+Ship.+Iterate.;Product+Designer+who+codes.;10%2B+products+shipped+end-to-end.;Building+at+the+intersection+of+design+%26+engineering.)](https://git.io/typing-svg)
 
 <br/>
 
 ![MS Information Systems](https://img.shields.io/badge/MS_Information_Systems-Saint_Louis_University_'25-6D28D9?style=flat-square&logo=graduation-cap&logoColor=white)
-![OPT](https://img.shields.io/badge/Status-OPT_Available-7C3AED?style=flat-square&logo=checkmarx&logoColor=white)
+![OPT](https://img.shields.io/badge/Status-OPT_Authorized-7C3AED?style=flat-square&logo=checkmarx&logoColor=white)
 ![Location](https://img.shields.io/badge/Saint_Louis,_MO-United_States-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-harshaasapu.com-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://harshaasapu.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshaasapu)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsha.asapu@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harsha--asapu-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-asapu/)
+[![Email](https://img.shields.io/badge/Gmail-harshaasapu.b-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshaasapu.b@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshaasapu)
 
 <br/>
@@ -31,15 +31,13 @@
 
 ## About
 
-I'm a **Product Designer who codes** — bridging the gap between design intent and engineering execution with precision and craft.
+Design doesn't ship perfect. It ships clear, gets used, reveals what's wrong, and improves. That loop — **identify, solve, ship, iterate** — is how I think about every product problem I work on.
 
-With a background in Computer Science and an MS in Information Systems, I approach every product through the lens of systems thinking: understanding not just what looks right, but what scales right, feels right, and works right at the level of code. My work lives at the intersection of **interaction design**, **front-end engineering**, and **AI-augmented product experiences**.
+My background moves from a **client-facing startup where I owned 10+ products end-to-end**, through graduate-level systems design at Saint Louis University, to active UX practice at a nonprofit. I research to find where the experience actually breaks — not where it looks broken — then design the fix, build it, and keep going.
 
-I design and build in the same workflow. Figma and VS Code are open side by side. I prototype in React, animate with Framer Motion, and ship components that are indistinguishable from what I designed. This fluency between disciplines is the core of my practice — it means fewer translation errors, faster iteration, and products that feel considered from pixel to deploy.
+I work in Figma and VS Code in the same session. I prototype in React, animate with Framer Motion, and ship components that match what I designed. That fluency between disciplines means fewer handoff errors, faster iteration, and less lost in translation between design intent and production reality.
 
-I care about the details most designers hand off: motion curves, focus states, component APIs, loading skeletons, and the micro-decisions that separate good products from great ones.
-
-**Open To:** Junior / Associate Product Designer roles at design-forward companies — particularly teams where engineering and design share a tight feedback loop. Sponsorship-friendly organizations preferred.
+**Open to:** Product Designer and UI/UX Designer roles at design-forward teams — particularly companies where sponsorship (OPT → H-1B) is on the table.
 
 ---
 
@@ -47,38 +45,25 @@ I care about the details most designers hand off: motion curves, focus states, c
 
 <div align="center">
 
-### Languages
+### Design
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,python,html,css&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev)
 
-### Frontend
+`Figma` `Auto Layout` `Components` `Prototyping` `Design Systems` `FigJam` `Wireframing` `Interaction Design` `UX Research` `Usability Testing` `Information Architecture` `Journey Mapping` `Lo-Fi & Hi-Fi Prototyping`
 
-[![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,framer,figma&theme=dark)](https://skillicons.dev)
+### Build
 
-### Backend & Databases
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,git&theme=dark)](https://skillicons.dev)
 
-[![Skills](https://skillicons.dev/icons?i=nodejs,firebase,postgres,mysql,mongodb&theme=dark)](https://skillicons.dev)
+### Data & AI
 
-### Cloud, DevOps & Tooling
+[![Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
 
-[![Skills](https://skillicons.dev/icons?i=aws,vercel,git,github,vscode&theme=dark)](https://skillicons.dev)
+`OpenAI API` `RAG Systems` `Prompt Design` `Power BI` `DAX`
 
-</div>
+### Process
 
----
-
-## AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| RAG Systems | ██████████ Advanced | Vector embeddings, retrieval pipelines, LLM orchestration |
-| Prompt Engineering | ██████████ Advanced | System prompts, persona tuning, output structuring |
-| AI-Augmented UX | █████████░ Proficient | Integrating LLM capabilities into user-facing product flows |
-| OpenAI / Anthropic APIs | █████████░ Proficient | GPT-4, Claude, streaming completions, tool use |
-| NLP / BERT | ███████░░░ Intermediate | Behavioral analysis, classification, semantic similarity |
-| Streamlit / LangChain | ███████░░░ Intermediate | Rapid AI prototype development and deployment |
+`Agile` `Jira` `Behavioral Design` `MoSCoW Prioritization` `Iterative Design` `A/B Testing`
 
 </div>
 
@@ -87,86 +72,85 @@ I care about the details most designers hand off: motion curves, focus states, c
 ## Featured Projects
 
 <details>
-<summary><strong>◈ Portfolio Website — harshaasapu.com</strong></summary>
+<summary><strong>◈ Starbucks Mobile Order Redesign — State Visibility System</strong></summary>
 
 <br/>
 
-A dark-theme, motion-forward personal portfolio engineered to the same standard as a production product. Every component was designed in Figma first and implemented with pixel fidelity. The site features a RAG-powered chatbot as a key differentiator — visitors can converse with an AI trained on my work, case studies, and background.
+Most redesigns fix what looks broken. This one fixed what *was* broken. The real problem wasn't slow wait times — it was zero visibility into when the barista actually starts the drink. A moment that didn't exist in the product.
 
-The architecture reflects deliberate product thinking: a starfield canvas background with zero performance cost, Framer Motion staggered entrance sequences tuned per-element, a mobile-first responsive system built before the desktop layout, and a draggable chat widget with corner-snap and persistence.
+Three directions were rejected before arriving at the right one: GPS-triggered pickup, a Domino's-style queue counter, and a live barista cam. The final solution: a **four-state model tied to actual barista actions** — one reusable state card, soft non-punishing language, amber instead of red. Restraint as a design decision.
+
+Validated independently when Brian Niccol's Oct 2024 earnings call named mobile order pickup a turnaround priority and cited inaccurate wait times as a core problem.
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | Next.js 16, React 18, TypeScript, Tailwind CSS, Framer Motion |
-| **Scale** | Single-user portfolio, optimized for recruiter and hiring manager sessions |
-| **Performance** | Lighthouse 95+, optimized asset loading, canvas animation at 60fps |
-| **Security** | API routes protected, environment variables scoped, no client-side key exposure |
-| **Impact** | Primary design portfolio driving interview pipeline for Product Designer roles |
-| **Repository** | [![Repo](https://img.shields.io/badge/GitHub-View_Repo-8B5CF6?style=flat-square&logo=github)](https://github.com/harshaasapu/portfolio) |
+| **Tools** | Figma · Smart Animate · FigJam |
+| **Timeline** | 2 weeks |
+| **Core Decision** | Four-state barista action model over GPS or queue-counter approaches |
+| **Outcome** | Problem statement independently validated by Starbucks CEO earnings call |
+| **Case Study** | [![View](https://img.shields.io/badge/Portfolio-View_Case_Study-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://harshaasapu.com) |
 
 </details>
 
 ---
 
 <details>
-<summary><strong>◈ AI Resume Editor — Intelligent Career Tool</strong></summary>
+<summary><strong>◈ LifeOS — Behavioral Productivity System</strong></summary>
 
 <br/>
 
-A full-stack AI tool that tailors resumes to job descriptions using OpenAI, generates custom cover letters, and scores applications against job match criteria. Built with a dark-theme two-tab UI in Streamlit, backed by Firebase for persistence.
+A behavioral productivity system designed from first principles — not another to-do app. The research question was: why do people abandon productivity tools they chose? The answer pointed to cognitive overload, punishing failure states, and systems that don't adapt to how people actually behave.
 
-The system prompt architecture was engineered for output consistency — structured JSON responses, deterministic formatting, and tone-matched writing. The scoring engine provides actionable gap analysis rather than raw similarity metrics.
+The design process covered discovery, competitive analysis, behavioral design frameworks, information architecture, and a full high-fidelity prototype with a component library built to scale.
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | Python, Streamlit, OpenAI GPT-4, Firebase Firestore |
-| **Scale** | MVP validated locally; architecture ready for multi-user deployment |
-| **Performance** | Sub-3s resume analysis, streaming response for cover letter generation |
-| **Security** | Firebase auth-gated data, server-side API key management |
-| **Impact** | Directly addresses the career tooling gap for international students on OPT |
-| **Repository** | [![Repo](https://img.shields.io/badge/GitHub-View_Repo-8B5CF6?style=flat-square&logo=github)](https://github.com/harshaasapu/ai-resume-editor) |
+| **Tools** | Figma · Behavioral Design · UX Research |
+| **Scope** | End-to-end UX case study — research through hi-fi prototype |
+| **Core Decision** | Behavioral design over feature accumulation — fewer states, less guilt |
+| **Case Study** | [![View](https://img.shields.io/badge/Portfolio-View_Case_Study-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://harshaasapu.com) |
 
 </details>
 
 ---
 
 <details>
-<summary><strong>◈ LifeOS — Personal Productivity Platform Case Study</strong></summary>
+<summary><strong>◈ SLU Alumni Connect — Role-Based Engagement Platform</strong></summary>
 
 <br/>
 
-A comprehensive UX case study for a personal life operating system — a productivity platform that unifies goal tracking, habit systems, and reflection workflows in a single cohesive product. The case study covers discovery, competitive analysis, information architecture, wireframing, and high-fidelity prototype delivery.
+Alumni data existed across disconnected spreadsheets. Students couldn't find mentors, admins couldn't measure anything, alumni had no way to contribute. The platform unified **12,000+ alumni records, 262 events, and 811 mentorship relationships** into a single production system.
 
-Designed to demonstrate end-to-end product design process: problem framing, user research synthesis, design system creation, and interaction design with motion spec handoff.
+The core design decision: **role-aware UI** — students, alumni, mentors, and admins each see only what's relevant, eliminating cognitive overload across four distinct user types in one product. Built on synthetic data from day one — FERPA-compliant by design, not retrofitted.
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | Figma, FigJam, Framer (prototype), custom design system |
-| **Scale** | 30+ screens, full design system with component library |
-| **Performance** | Prototype load-tested for recruiter walkthrough sessions |
-| **Security** | N/A — design artifact |
-| **Impact** | Anchor case study demonstrating full design process depth |
-| **Repository** | [![Portfolio](https://img.shields.io/badge/Portfolio-View_Case_Study-8B5CF6?style=flat-square&logo=vercel)](https://harshaasapu.com) |
+| **Stack** | Next.js · React · TypeScript · PostgreSQL · Prisma |
+| **Scale** | 12,000+ alumni records · 262 events · 811 mentorship relationships |
+| **Core Decision** | Role-aware UI over a single unified view |
+| **Compliance** | FERPA-compliant by design (synthetic data from day one) |
+| **Live** | [![View](https://img.shields.io/badge/Live-SLU_Alumni_Connect-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://harshaasapu.com) |
 
 </details>
 
 ---
 
 <details>
-<summary><strong>◈ Synthea Healthcare Analytics Dashboard</strong></summary>
+<summary><strong>◈ This Portfolio — Three-Phase Product Build</strong></summary>
 
 <br/>
 
-A Power BI analytics dashboard built on synthetic patient data from the Synthea dataset, designed to surface actionable clinical and operational insights. The project covered data modeling, DAX measure engineering, and dashboard design for a healthcare stakeholder audience.
+Three iterations. Phase 1 said nothing. Phase 2 worked on desktop and broke on mobile. Phase 3 rebuilt every component from first principles at 375px.
+
+A custom **RAG chatbot** trained on 8 markdown knowledge files answers questions about real work — grounded in actual content, not a gimmick. A draggable corner-snapping chat widget solved a real UX problem (FAB covering content) while demonstrating interaction design capability in a single feature. Every design decision is documented. Every rejected idea is named. **The portfolio is the case study.**
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | Power BI, DAX, MySQL, Synthea synthetic dataset |
-| **Scale** | 100K+ synthetic patient records, multi-table relational model |
-| **Performance** | Optimized DAX measures for sub-second cross-filter response |
-| **Security** | De-identified synthetic data; no real PHI involved |
-| **Impact** | Academic capstone demonstrating healthcare analytics domain knowledge |
-| **Repository** | [![Repo](https://img.shields.io/badge/GitHub-View_Repo-8B5CF6?style=flat-square&logo=github)](https://github.com/harshaasapu) |
+| **Stack** | Next.js · Framer Motion · OpenAI RAG · TypeScript · Tailwind CSS |
+| **Key Feature** | RAG chatbot trained on 8 markdown knowledge files |
+| **Interaction** | Draggable corner-snapping chat widget — UX problem solved, not decorated |
+| **Performance** | Mobile-first at 375px · Lighthouse 95+ |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-my__portfolio-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/harshaasapu) |
 
 </details>
 
@@ -174,52 +158,58 @@ A Power BI analytics dashboard built on synthetic patient data from the Synthea 
 
 ## Experience
 
-### Product Designer & Developer — Independent / Freelance
-**Self-Directed · 2023 – Present**
+### UI/UX Designer — Community Dreams Foundation
+**Feb 2026 – Present**
 
-Building a full-stack product design practice across UX, interaction design, and front-end engineering. Working from first principles: every project starts with user research or problem framing and ends with shipped, production-grade code.
+Contributing to the DreamStream product — a nonprofit streaming platform — through the full design cycle: proposing approaches, creating lo-fi and hi-fi wireframes in Figma and FigJam, and iterating based on team feedback.
 
-- Designed and engineered a personal portfolio to production standard, implementing RAG-based AI chatbot, Framer Motion animation systems, and a fully responsive mobile-first layout
-- Built AI-powered career tooling (resume editor, cover letter generator) using OpenAI APIs and Streamlit, with Firebase-backed persistence
-- Developed end-to-end UX case studies covering discovery, IA, wireframing, and high-fidelity prototype delivery
-- Established a consistent design-to-code workflow using Figma → Next.js → Vercel deploy pipeline
+- Collaborates asynchronously with PMs and developers via Slack and structured meetings to align design with product and community goals
+- Applies UX principles developed across self-initiated case studies (LifeOS, Starbucks redesign) directly to real nonprofit product challenges
+- Actively exploring motion design and interaction prototyping, extending practice into After Effects
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=8B5CF6)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=flat-square&logo=figma&logoColor=8B5CF6)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FigJam](https://img.shields.io/badge/FigJam-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
 ---
 
-### Graduate Research & Academic Projects — Saint Louis University
-**MS Information Systems · Jan 2024 – Dec 2025**
+### Product Designer & Frontend Engineer — BuiltinTech (IT Services)
+**Jan 2023 – Dec 2023**
 
-Applied systems thinking and technical depth across cybersecurity, data analytics, and enterprise architecture in an academic research context. Capstone work included a Centene Corporation security program design (NIST framework, Cyber Kill Chain methodology) and a team-delivered MRP system case study (FalconSix).
+Owned the full product experience for 10+ client-facing web products — from first conversation through production handoff and post-delivery iteration. No handoff to another designer. No proxy for user feedback.
 
-- Authored cybersecurity program proposal for enterprise client using NIST CSF and Cyber Kill Chain frameworks
-- Designed relational database schemas and analytics pipelines for healthcare data using MySQL and Power BI
-- Led front-end engineering on group ERP project, delivering React-based UI components and data visualization layer
+- Translated vague client needs into structured requirements, user flows, and responsive UI — then refined based on real feedback, not assumptions
+- Drove approximately **80% of client acquisition** through direct outreach, requirement scoping, and trust-building
+- Recruited and managed interns from KL University, running them through real project workflows
 
+![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=flat-square&logo=figma&logoColor=8B5CF6)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=8B5CF6)
+![HTML](https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+---
+
+### Frontend Developer — Areksoft Technologies
+**Aug 2022 – Dec 2022**
+
+First exposure to how production teams plan, review, and ship. Built responsive web interfaces in a structured enterprise environment. Python and Flask exposure made feasibility a design instinct, not an afterthought.
+
+- Supported digital presence work through Figma, Canva, social media targeting, and campaign assets
+- First real look at how design serves business goals directly
+
+![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=flat-square&logo=figma&logoColor=8B5CF6)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 ---
 
-## Achievements
+## Education
 
 <div align="center">
 
-| Recognition | Details |
-|:---:|:---|
-| 🎓 MS Information Systems | Saint Louis University, December 2025 — Completed with focus on AI, data systems, and enterprise architecture |
-| 💼 OPT Authorization | Authorized to work in the United States without employer sponsorship requirements during OPT period |
-| 🚀 Full-Stack Portfolio Ship | Designed and engineered a production-grade portfolio with RAG chatbot, motion design system, and sub-3s performance |
-| 🤖 AI Tooling MVP | Built and validated an AI Resume Editor with job match scoring, tailoring, and cover letter generation |
-| 📱 Instagram Growth | Built "rewire.harsha" — a discipline-focused personal transformation brand targeting South Asian audiences aged 18–27 |
-| 🎯 Design-to-Code Pipeline | Established a repeatable Figma → Next.js → Vercel workflow producing pixel-accurate, production-ready UIs |
+| Degree | Institution | Period |
+|:---|:---|:---|
+| MS in Information Systems | Saint Louis University, Saint Louis, MO | Jan 2024 – Dec 2025 |
+| BS in Computer Science Engineering | KL University, Hyderabad, Telangana, India | May 2019 – Jun 2023 |
 
 </div>
 
@@ -229,37 +219,17 @@ Applied systems thinking and technical depth across cybersecurity, data analytic
 
 <div align="center">
 
-### AWS
+### Google
 
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google UX Design](https://img.shields.io/badge/Google-UX_Design_Certificate_(In_Progress)-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### Oracle
+### Udacity
 
-![Oracle Cloud](https://img.shields.io/badge/Oracle-Cloud_Infrastructure_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/Udacity-A%2FB_Testing_(In_Progress)-02B3E4?style=for-the-badge&logo=udacity&logoColor=white)
 
 ### Cisco
 
-![Cisco](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Programming_in_Java-8B5CF6?style=for-the-badge&logo=java&logoColor=white)
-![NPTEL](https://img.shields.io/badge/NPTEL-Database_Management_Systems-8B5CF6?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/harshaasapu)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/harshaasapu)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/harshaasapu)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/harshaasapu)
+![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
 
@@ -286,7 +256,7 @@ Applied systems thinking and technical depth across cybersecurity, data analytic
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=harshaasapu&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=7&title_color=8B5CF6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=harshaasapu&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -321,32 +291,31 @@ Applied systems thinking and technical depth across cybersecurity, data analytic
 ```yaml
 current_focus:
   learning:
-    - Advanced interaction design patterns and micro-animation systems
-    - AI agent architectures and multi-step LLM orchestration
-    - Component API design and design system token architecture
-    - Accessibility-first design engineering (WCAG AA/AAA)
+    - Google UX Design Certificate (Coursera — in progress)
+    - A/B Testing fundamentals (Udacity — in progress)
+    - Motion design and interaction prototyping → After Effects
+    - Advanced Framer Motion for production-grade animation systems
 
   building:
-    - harshaasapu.com — Phase 4 homepage redesign with Framer Motion entrance system
-    - SLU Alumni Connect — case study page (full UX documentation)
-    - AI Resume Editor — multi-user deployment with Firebase auth layer
-    - RAG chatbot voice and style system prompt refinement
+    - harshaasapu.com — Phase 4 homepage redesign (centered image-anchored dark layout)
+    - DreamStream — UX contributions at Community Dreams Foundation
+    - Starbucks Redesign — case study documentation and portfolio presentation
+    - RAG chatbot voice/style system prompt refinement
 
   exploring:
-    - Design engineering culture at Linear, Vercel, Stripe, Perplexity, Anthropic
-    - Intersection of LLM tooling and product UX in B2B SaaS
-    - Open source contributions to design systems and component libraries
+    - Product Designer roles at Linear, Vercel, Stripe, Perplexity, Anthropic
+    - Design engineering culture at teams where Figma and VS Code are both first-class
+    - Behavioral design systems and psychology-informed UX patterns
 
   open_to:
     roles:
-      - Junior Product Designer
-      - Associate Product Designer
+      - Product Designer
+      - UI/UX Designer
       - Design Engineer
-      - UI/UX Designer (with front-end scope)
     requirements:
-      - Sponsorship-friendly companies (OPT → H-1B pathway)
+      - OPT authorized — sponsorship-friendly companies preferred (OPT → H-1B)
       - Teams where design and engineering share a tight feedback loop
-      - Products that value craft, systems thinking, and velocity
+      - Products where craft and systems thinking both matter
 ```
 
 ---
@@ -355,8 +324,8 @@ current_focus:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-harsha.asapu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsha.asapu@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshaasapu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshaasapu)
+[![Gmail](https://img.shields.io/badge/Gmail-harshaasapu.b@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshaasapu.b@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harsha--asapu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-asapu/)
 [![GitHub](https://img.shields.io/badge/GitHub-harshaasapu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshaasapu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-harshaasapu.com-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://harshaasapu.com)
 
@@ -366,7 +335,7 @@ current_focus:
 
 <div align="center">
 
-*Every problem has a cleaner answer. I find it.*
+*Design doesn't ship perfect. It ships clear, gets used, reveals what's wrong, and improves.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer&animation=fadeIn" />
 
